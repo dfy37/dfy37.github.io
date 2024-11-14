@@ -21,7 +21,7 @@ repository               : "dfy37/dfy37.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Profile.jpg"
   name             : "Feiyu Duan"
   pronouns         : # example: "she/her"  
   bio              : "Master Student at Beihang University"
