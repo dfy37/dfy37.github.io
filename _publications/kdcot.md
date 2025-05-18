@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/kdcot
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-08
+date: 2023-08-25
 venue: 'arxiv'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/pdf/2308.13259'
