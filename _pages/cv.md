@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+You can find my brief introduction here.
+
 {% include base_path %}
 
 Education
