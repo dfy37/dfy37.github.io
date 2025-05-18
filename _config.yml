@@ -8,20 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-<<<<<<< HEAD
 title                    : "Feiyu Duan"
-=======
-site_theme               : "default"
-title                    : "Your Name / Site Title"
->>>>>>> 54589c60cfd2290ef97ed5409a44a21f4db92c12
 title_separator          : "-"
 name                     : &name "Feiyu Duan"
 description              : &description "personal description"
-<<<<<<< HEAD
 url                      : https://dfy37.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-=======
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
->>>>>>> 54589c60cfd2290ef97ed5409a44a21f4db92c12
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dfy37/dfy37.github.io"
 
