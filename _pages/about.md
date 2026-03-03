@@ -54,9 +54,11 @@ I am very fortunate to be advised by Prof. Zhongyu Wei from School of Data Scien
 
 - [PositionID: LLMs can control lengths, copy and paste with explicit positional awareness](https://aclanthology.org/2024.findings-emnlp.983/), Noah Wang, **Feiyu Duan**, Yibo Zhang, et al. **Findings of EMNLP 2024**
 
-- [Hellobench: Evaluating long text generation capabilities of large language models](https://arxiv.org/abs/2409.16191), Haoran Que, **Feiyu Duan**, Liqun He, et al. **Arxiv**
-
 - [Generative Spoken Language Modeling with Quantized Feature Enhancement](https://ieeexplore.ieee.org/abstract/document/10651390), **Feiyu Duan**; Chen Li; Keheng Wang, et al. **IJCNN 2024**
+
+# 📄 Preprint
+
+- [Hellobench: Evaluating long text generation capabilities of large language models](https://arxiv.org/abs/2409.16191), Haoran Que, **Feiyu Duan**, Liqun He, et al. **Arxiv**
 
 - [Knowledge-Driven CoT: Exploring Faithful Reasoning in LLMs for Knowledge-intensive Question Answering](https://arxiv.org/abs/2308.13259), Keheng Wang, **Feiyu Duan**, Sirui Wang, et al. **Arxiv**
 
