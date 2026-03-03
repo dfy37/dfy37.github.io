@@ -19,7 +19,7 @@ redirect_from:
 
 I'm a first year PhD student from Fudan University. My research interest includes natural language processing, LLM, and social computing.
 
-I am very fortunate to be advised by Prof. Zhongyu Wei from School of Data Science, Fudan University.
+I am very fortunate to be advised by [Prof. Zhongyu Wei](http://www.fudan-disc.com/people/zywei) from School of Data Science, Fudan University.
 
 [Email](fyduan25@m.fudan.edu.cn) / [Github](https://github.com/dfy37)
 
