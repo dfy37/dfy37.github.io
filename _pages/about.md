@@ -24,9 +24,9 @@ I am very fortunate to be advised by [Prof. Zhongyu Wei](http://www.fudan-disc.c
 [Email](fyduan25@m.fudan.edu.cn) / [Github](https://github.com/dfy37)
 
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🔥 News
+- *2026.04*: &nbsp;🎉🎉 One paper has been accepted in Findings of ACL2026 ! 
+<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
@@ -41,6 +41,8 @@ I am very fortunate to be advised by [Prof. Zhongyu Wei](http://www.fudan-disc.c
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+
+- [LifeSim: Long-Horizon User Life Simulator for Personalized Assistant Evaluation](https://arxiv.org/abs/2603.12152), **Feiyu Duan**, Xuanjing Huang, Zhongyu Wei. **Findings of ACL 2026**
 
 - [FIRE: Flexible integration of data quality ratings for effective pre-training](https://aclanthology.org/2025.emnlp-main.735/), Xu Liangyu, Xuemiao Zhang, **Feiyu Duan**, et al. **EMNLP 2025**
 
@@ -74,6 +76,13 @@ I am very fortunate to be advised by [Prof. Zhongyu Wei](http://www.fudan-disc.c
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+
+# 💬 Teaching and Service
+## Teaching Assistant
+- TA for “Introduction to Artificial Intelligence”, Fudan University, Fall 2025
+
+## Program Committee
+- Reviewer: ACL, AAAI, IJCNN
 
 # 💻 Internships
 - *2023.06 - 2024.08*, LLM Algorithm Engineer, Meituan, Beijing, China.
