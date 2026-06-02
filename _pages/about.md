@@ -60,6 +60,8 @@ I am very fortunate to be advised by [Prof. Zhongyu Wei](http://www.fudan-disc.c
 
 # 📄 Preprint
 
+- [StreamProfileBench: A Benchmark for Fine-Grained User Profile Inference in Real-World Streaming Scenarios](https://arxiv.org/abs/2605.25758), Sizhe Wang, **Feiyu Duan**, Juelin Wang, et al. **Arxiv**
+
 - [Hellobench: Evaluating long text generation capabilities of large language models](https://arxiv.org/abs/2409.16191), Haoran Que, **Feiyu Duan**, Liqun He, et al. **Arxiv**
 
 - [Knowledge-Driven CoT: Exploring Faithful Reasoning in LLMs for Knowledge-intensive Question Answering](https://arxiv.org/abs/2308.13259), Keheng Wang, **Feiyu Duan**, Sirui Wang, et al. **Arxiv**
