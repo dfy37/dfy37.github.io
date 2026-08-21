@@ -25,7 +25,8 @@ I am very fortunate to be advised by [Prof. Zhongyu Wei](http://www.fudan-disc.c
 
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 One paper has been accepted in Findings of ACL2026 ! 
+- *2026.08*: &nbsp;🎉🎉 One paper has been accepted in EMNLP2026 ! 
+- *2026.04*: &nbsp;🎉🎉 One paper has been accepted in ACL2026 ! 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
@@ -42,29 +43,31 @@ I am very fortunate to be advised by [Prof. Zhongyu Wei](http://www.fudan-disc.c
 </div>
 </div> -->
 
+- [InterviewBench: Benchmarking Large Language Models as Interviewers](),  Shangzhe Dai*, **Feiyu Duan***, Zhongyu Wei 
+
 - [LifeSim: Long-Horizon User Life Simulator for Personalized Assistant Evaluation](https://arxiv.org/abs/2603.12152), **Feiyu Duan**, Xuanjing Huang, Zhongyu Wei. **Findings of ACL 2026**
 
-- [FIRE: Flexible integration of data quality ratings for effective pre-training](https://aclanthology.org/2025.emnlp-main.735/), Xu Liangyu, Xuemiao Zhang, **Feiyu Duan**, et al. **EMNLP 2025**
+- [FIRE: Flexible integration of data quality ratings for effective pre-training](https://aclanthology.org/2025.emnlp-main.735/), Xu Liangyu*, Xuemiao Zhang*, **Feiyu Duan***, et al. **EMNLP 2025**
 
-- [FRAME: Boosting LLMs with A Four-Quadrant Multi-Stage Pretraining Strategy](https://aclanthology.org/2025.findings-acl.1040/), Xuemiao Zhang, **Feiyu Duan**, Xu Liangyu, et al. **Findings of ACL 2025**
+- [FRAME: Boosting LLMs with A Four-Quadrant Multi-Stage Pretraining Strategy](https://aclanthology.org/2025.findings-acl.1040/), Xuemiao Zhang*, **Feiyu Duan***, Xu Liangyu*, et al. **Findings of ACL 2025**
 
-- [Preference curriculum: Llms should always be pretrained on their preferred data](https://aclanthology.org/2025.findings-acl.1091/), Xuemiao Zhang, Xu Liangyu, **Feiyu Duan**, et al. **Findings of ACL 2025**
+- [Preference curriculum: Llms should always be pretrained on their preferred data](https://aclanthology.org/2025.findings-acl.1091/), Xuemiao Zhang*, Xu Liangyu*, **Feiyu Duan***, et al. **Findings of ACL 2025**
 
-- [Enhancing llms via high-knowledge data selection](https://ojs.aaai.org/index.php/AAAI/article/view/34555), **Feiyu Duan**, Xuemiao Zhang, Sirui Wang, et al. **AAAI 2025**
+- [Enhancing llms via high-knowledge data selection](https://ojs.aaai.org/index.php/AAAI/article/view/34555), **Feiyu Duan***, Xuemiao Zhang*, Sirui Wang, et al. **AAAI 2025**
 
 - [LLMs Know What They Need: Leveraging a Missing Information Guided Framework to Empower Retrieval-Augmented Generation](https://aclanthology.org/2025.coling-main.163/), Keheng Wang, **Feiyu Duan**, Peiguang Li, et al. **COLING 2025**
 
-- [PositionID: LLMs can control lengths, copy and paste with explicit positional awareness](https://aclanthology.org/2024.findings-emnlp.983/), Noah Wang, **Feiyu Duan**, Yibo Zhang, et al. **Findings of EMNLP 2024**
+- [PositionID: LLMs can control lengths, copy and paste with explicit positional awareness](https://aclanthology.org/2024.findings-emnlp.983/), Noah Wang*, **Feiyu Duan***, Yibo Zhang*, et al. **Findings of EMNLP 2024**
 
 - [Generative Spoken Language Modeling with Quantized Feature Enhancement](https://ieeexplore.ieee.org/abstract/document/10651390), **Feiyu Duan**; Chen Li; Keheng Wang, et al. **IJCNN 2024**
 
 # 📄 Preprint
 
-- [StreamProfileBench: A Benchmark for Fine-Grained User Profile Inference in Real-World Streaming Scenarios](https://arxiv.org/abs/2605.25758), Sizhe Wang, **Feiyu Duan**, Juelin Wang, et al. **Arxiv**
+- [StreamProfileBench: A Benchmark for Fine-Grained User Profile Inference in Real-World Streaming Scenarios](https://arxiv.org/abs/2605.25758), Sizhe Wang*, **Feiyu Duan***, Juelin Wang, et al. **Arxiv**
 
-- [Hellobench: Evaluating long text generation capabilities of large language models](https://arxiv.org/abs/2409.16191), Haoran Que, **Feiyu Duan**, Liqun He, et al. **Arxiv**
+- [Hellobench: Evaluating long text generation capabilities of large language models](https://arxiv.org/abs/2409.16191), Haoran Que*, **Feiyu Duan***, Liqun He*, et al. **Arxiv**
 
-- [Knowledge-Driven CoT: Exploring Faithful Reasoning in LLMs for Knowledge-intensive Question Answering](https://arxiv.org/abs/2308.13259), Keheng Wang, **Feiyu Duan**, Sirui Wang, et al. **Arxiv**
+- [Knowledge-Driven CoT: Exploring Faithful Reasoning in LLMs for Knowledge-intensive Question Answering](https://arxiv.org/abs/2308.13259), Keheng Wang*, **Feiyu Duan***, Sirui Wang, et al. **Arxiv**
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -84,7 +87,7 @@ I am very fortunate to be advised by [Prof. Zhongyu Wei](http://www.fudan-disc.c
 - TA for “Introduction to Artificial Intelligence”, Fudan University, Fall 2025
 
 ## Program Committee
-- Reviewer: ACL, AAAI, IJCNN
+- Reviewer: ACL, AAAI, IJCNN, EMNLP
 
 # 💻 Internships
 - *2023.06 - 2024.08*, LLM Algorithm Engineer, Meituan, Beijing, China.
