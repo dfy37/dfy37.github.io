@@ -63,6 +63,8 @@ I am very fortunate to be advised by [Prof. Zhongyu Wei](http://www.fudan-disc.c
 
 # 📄 Preprint
 
+- [General Decision Models: Benchmarking and Insights Beyond Jev](https://arxiv.org/abs/2610.03935), **Feiyu Duan\***, Jiayu Lin\*, Jia Wang\*, Jun Xiang\*, et al. **Arxiv**
+
 - [StreamProfileBench: A Benchmark for Fine-Grained User Profile Inference in Real-World Streaming Scenarios](https://arxiv.org/abs/2605.25758), Sizhe Wang*, **Feiyu Duan\***, Juelin Wang, et al. **Arxiv**
 
 - [Hellobench: Evaluating long text generation capabilities of large language models](https://arxiv.org/abs/2409.16191), Haoran Que*, **Feiyu Duan\***, Liqun He*, et al. **Arxiv**
