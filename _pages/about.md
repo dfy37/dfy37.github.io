@@ -43,7 +43,7 @@ I am very fortunate to be advised by [Prof. Zhongyu Wei](http://www.fudan-disc.c
 </div>
 </div> -->
 
-- [InterviewBench: Benchmarking Large Language Models as Interviewers](),  Shangzhe Dai\*, **Feiyu Duan\***, Zhongyu Wei 
+- [InterviewBench: Benchmarking Large Language Models as Interviewers](),  Shangzhe Dai\*, **Feiyu Duan\***, Zhongyu Wei. **Findings of EMNLP 2026**
 
 - [LifeSim: Long-Horizon User Life Simulator for Personalized Assistant Evaluation](https://arxiv.org/abs/2603.12152), **Feiyu Duan**, Xuanjing Huang, Zhongyu Wei. **Findings of ACL 2026**
 
