@@ -1,0 +1,22 @@
+backend:
+  name: turbo-github
+  turbo_site_id: 93bd9355-6c90-44b1-8af2-5b6b7d159303
+  branch: main
+
+media_folder: images/blog
+public_folder: /images/blog
+
+collections:
+  - name: blog
+    label: Blog
+    folder: _posts
+    create: true
+    extension: md
+    format: frontmatter
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+      - { label: Layout, name: layout, widget: hidden, default: post }
+      - { label: Title, name: title, widget: string }
+      - { label: Publish date, name: date, widget: datetime }
+      - { label: Summary, name: description, widget: text, required: false }
+      - { label: Body, name: body, widget: markdown }
