@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a first year PhD student from Fudan University. My research interest includes natural language processing, LLM, and social computing.
+I'm a second-year PhD student jointly trained by Fudan University and Shanghai Innovation Institute. My research interest includes natural language processing, LLM, and social computing.
 
 I am very fortunate to be advised by [Prof. Zhongyu Wei](http://www.fudan-disc.com/people/zywei) from School of Data Science, Fudan University.
 
