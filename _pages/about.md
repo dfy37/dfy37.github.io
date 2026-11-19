@@ -25,6 +25,7 @@ I am very fortunate to be advised by [Prof. Zhongyu Wei](http://www.fudan-disc.c
 
 
 # 🔥 News
+- *2026.11*: &nbsp;🎉🎉 One paper has been accepted to the KDD 2027 Dataset and Benchmark Track!
 - *2026.08*: &nbsp;🎉🎉 One paper has been accepted in EMNLP2026 ! 
 - *2026.04*: &nbsp;🎉🎉 One paper has been accepted in ACL2026 ! 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
